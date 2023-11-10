@@ -1,1 +1,1 @@
-# My_new_repository_2
+# example-repo
